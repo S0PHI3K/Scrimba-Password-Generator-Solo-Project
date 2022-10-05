@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+
+body {
+    margin: auto;
+    background-color: black;
+    font-family: Karla;
+}
+
+.container{
+    background-color: #1F2937;
+    max-width: 350px;
+    max-height: 500px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 5px;
+    /* align-content: center; */
+}
+
+.card {
+    margin-left: 15px;
+
+    
+}
+
+h1 {
+    font-weight: Bold;
+}
+
+.title1{
+    color: white;
+    margin-bottom: 0px;
+}
+
+.title2{
+    color: #4adf86;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    color: #d9d9d9;
+    margin-top: 10px;
+
+}
+
+button {
+    background-color: #10b981;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 25px;
+}
+
+.line {
+    background-color: #10b981;
+    max-width: 80%;
+    max-height: 2px;
+}
+
+.password-holder {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.password {
+    background-color: #273549;
+    justify-content: space-between;
+    color: #55F991;
+    border-radius: 5px;
+    font-size: 10px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 120px;
+    height: 15px;
+    
+}
+
+.password2 {
+    background-color: #273549;
+    justify-content: space-between;
+    color: #55F991;
+    border-radius: 5px;
+    font-size: 10px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 120px;
+    height: 15px;
+    margin-left: 15px;
+}
